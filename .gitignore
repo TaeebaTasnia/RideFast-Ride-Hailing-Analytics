@@ -1,0 +1,10 @@
+# Large files that exceed GitHub limits
+output/tableau_rides_clean.csv
+output/looker_rides.csv
+output/exports/
+
+# Cache / system
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
